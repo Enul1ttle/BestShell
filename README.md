@@ -4,6 +4,12 @@
 
 ### 代码开源不含后门，免杀自己做。
 
+### TODO
+
+1. 内嵌 `https://github.com/yangyangwithgnu/bypass_disablefunc_via_LD_PRELOAD`
+
+2. 把path参数base64一遍
+
 
 ## 4.0 更新日志
 
