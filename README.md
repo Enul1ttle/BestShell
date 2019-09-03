@@ -2,7 +2,10 @@
 
 ### 具体介绍：https://yzddmr6.tk/2019/09/01/BestShell/
 
-### 代码开源不含后门，免杀自己做。
+### 代码开源不含后门
+
+### 如何利用webshell-venom对大马免杀：
+https://yzddmr6.tk/2019/09/03/webshell-venom-3-3/
 
 ### TODO
 
